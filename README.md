@@ -260,7 +260,7 @@ All resources must carry these mandatory tags for cost attribution:
 | `project` | `eks-migration` | Project-level attribution |
 | `environment` | `prod` / `staging` | Env split |
 | `cost-center` | `CC-1042` | Finance chargeback |
-| `owner` | `vamsi@company.com` | Accountability |
+| `owner` | `team-owner@example.com` | Accountability |
 
 ---
 
